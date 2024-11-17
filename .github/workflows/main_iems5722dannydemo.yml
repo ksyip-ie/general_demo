@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'iems5722dannydemo'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AzureAppService_PublishProfile_d89e1c3928264894a91236b38448d991 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F0F59AA947E74CD9955E24EE8A48EFFC }}
